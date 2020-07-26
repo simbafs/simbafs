@@ -1,7 +1,9 @@
 ### Hi, I'm Simba Fs
 I'm a studtent 🧑‍🎓 coder from Taiwan 🇹🇼 , a nodejs developer.  
 I am now learning Reactjs ⚛ rocket.  
-This is my projects.
+This is my projects.  
+[![SimbaFs's github stats](https://github-readme-stats.vercel.app/api?username=simba-fs&show_icons=true)](https://github.com/simba-fs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simba-fs&hide=ruby)](https://github.com/simba-fs)
 
 * 💻 [url shortener](https://github.com/simba-fs/url-shortener) A url shortener written in nodejs
 * 🤖 [simplyjs](https://github.com/simba-fs/simply.js)  A framwork to build a discord bot in nodejs
