@@ -1,4 +1,4 @@
-### Hi, I'm Simba Fs
+### Hi, I'm [Simba Fs](https://simba-fs.github.io/about/)
 I'm a studtent 🧑‍🎓 coder from Taiwan 🇹🇼 , a nodejs developer.  
 I am now learning Reactjs ⚛ rocket.  
 This is my projects.  
@@ -7,7 +7,7 @@ This is my projects.
 
 * 💻 [url shortener](https://github.com/simba-fs/url-shortener) A url shortener written in nodejs
 * 🤖 [simplyjs](https://github.com/simba-fs/simply.js)  A framwork to build a discord bot in nodejs
-* 📔 [remind Daniel](https://github.com/simba-fs/cksh-post)  Memes....
+* 📔 [remind Daniel](https://github.com/simba-fs/deniel)  Memes....
 * 🔧 [dot-file](https://github.com/simba-fs/dot-file) My dotfile for vim, tmux.....
 * ⚛ [react template](https://github.com/simba-fs/react-template)  A lightweight setup for reactjs
 * 💓 [uptime bot](https://github.com/simba-fs/uptime-robot)  Check if the website is alive, and then report it to Discord
