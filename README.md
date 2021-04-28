@@ -1,30 +1,32 @@
-<h1 align="center">Hi 👋, I'm simba-fs</h1>
+# 🖐️ 哈囉！問世界安好
+我目前是一個高中生，讀書閒暇時間會開發一些小專案。  
+在 [成功高中電子計算機研習社](https://ckcsc.net) 擔任 `退休網管兼教學`  
+[![Followers](https://img.shields.io/github/followers/simba-fs?style=flat-square)](https://github.com/simba-fs)
 
-<h3 align="center">I am a senior high school student from Taiwan(ROC)🇹🇼, interested in programing.</h3>
+- 本名: 陳宏彰
+- 其他稱呼: simba-fs
+- 興趣: 寫程式、
+- 學歷: 成功高中
+- 專長: **NodeJS**、**HTML/CSS/JS**、**bash**、**Linux system operation**
 
-- 🔭 I’m currently working on [mongoose API](https://github.com/simba-fs/mongoose-api)
+# 🔗 紀錄
+[![SimbaFs's github stats](https://github-readme-stats.vercel.app/api?username=simba-fs&show_icons=true&theme=nord)](https://github.com/simba-fs)
 
-- 🌱 I’m currently learning **React.js**
+# 🛠 作品
+- [slides](https://github.com/simba-fs/slides)
+這個網站可以把 markdown 轉成線上簡報，還支援會議室模式，詳細可以參考 [GitHub](https://github.com/simba-fs/slides) 或是 [Help Page](https://slides.simba-fs.dev/h/how-to-use)
+[Demo](https://slides.simba-fs.dev)
 
-- ❤️ This is my favorite project [slides](https://github.com/simba-fs/slides)
+- [AURL](https://github.com/simba-fs/aurl)
+這本來是我練習資料庫存取的一個專案，結果就越長越大，最後變成一個完整的專案了。  
+目前正在做第二版，程式碼會更具易讀性、可維護性，也會導入權限系統  
+[Demo](https://aurl.simba-fs.dev)
 
-- 🏆 I also proud of this [AURL](https://github.com/simba-fs/aurl)
+# 🔨 常用語言
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=simba-fs&show_icons=true&locale=en&layout=compact&theme=nord)](https://github.com/simba-fs)
 
-- 👨‍💻 All of my projects are available at [https://github.com/simba-fs?tab=repositories](https://github.com/simba-fs?tab=repositories)
-
-- 📝 I regularly write articles on [simba-fs.github.io](simba-fs.github.io)
-
-- 📫 How to reach me **simba.fs[ａｔ]gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/simba#2030" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="simba#2030" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simba-fs&show_icons=true&locale=en&layout=compact" alt="simba-fs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simba-fs&show_icons=true&locale=en" alt="simba-fs" /></p>
-
+# 📬 聯絡方式
+- Email: [me@simba-fs.dev](mailto:me@simba-fs.dev) 
+- Email: [simba.fs@gmail.com](mailto:simba.fs@gmail.com)（兩個我都會收信） 
+- Discord id: simba-fs#2030
+- telegram: [@simbafs](https://t.me/simbafs)
