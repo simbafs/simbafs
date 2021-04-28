@@ -10,7 +10,7 @@
 - 專長: **NodeJS**、**HTML/CSS/JS**、**bash**、**Linux system operation**
 
 # 🔗 紀錄
-[![SimbaFs's github stats](https://github-readme-stats.vercel.app/api?username=simba-fs&show_icons=true&theme=nord)](https://github.com/simba-fs)
+[![SimbaFs's github stats](https://github-readme-stats.vercel.app/api?username=simba-fs&show_icons=true)](https://github.com/simba-fs)
 
 # 🛠 作品
 - [slides](https://github.com/simba-fs/slides)
@@ -23,7 +23,7 @@
 [Demo](https://aurl.simba-fs.dev)
 
 # 🔨 常用語言
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=simba-fs&show_icons=true&locale=en&layout=compact&theme=nord)](https://github.com/simba-fs)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=simba-fs&show_icons=true&locale=en&layout=compact)](https://github.com/simba-fs)
 
 # 📬 聯絡方式
 - Email: [me@simba-fs.dev](mailto:me@simba-fs.dev) 
