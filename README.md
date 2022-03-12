@@ -12,7 +12,7 @@
 
 # 🛠 作品
 - [telegrary](https://github.com/simba-fs/telegrary)
-Telegrary = Telegram + diary
+Telegrary = Telegram + diary  
 Telegrary 是一個 Telegram 機器人，讓你可以在 Telegram 上管理日記。同時 Telegrary 提供了一個 CLI 界面，讓你可以在終端機管理日記。
 
 - [slides](https://github.com/simba-fs/slides)  
