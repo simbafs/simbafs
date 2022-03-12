@@ -11,6 +11,10 @@
 [![SimbaFs's github stats](https://github-readme-stats.vercel.app/api?username=simba-fs&show_icons=true)](https://github.com/simba-fs)
 
 # 🛠 作品
+- [telegrary](https://github.com/simba-fs/telegrary)
+Telegrary = Telegram + diary
+Telegrary 是一個 Telegram 機器人，讓你可以在 Telegram 上管理日記。同時 Telegrary 提供了一個 CLI 界面，讓你可以在終端機管理日記。
+
 - [slides](https://github.com/simba-fs/slides)  
 這個網站可以把 markdown 轉成線上簡報，還支援會議室模式，詳細可以參考 [GitHub](https://github.com/simba-fs/slides) 或是 [Help Page](https://slides.simba-fs.dev/h/how-to-use)
 [Demo](https://slides.simba-fs.dev)
@@ -24,7 +28,6 @@
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=simba-fs&show_icons=true&locale=en&layout=compact)](https://github.com/simba-fs)
 
 # 📬 聯絡方式
-- Email: [me@simba-fs.dev](mailto:me@simba-fs.dev) 
-- Email: [simba.fs@gmail.com](mailto:simba.fs@gmail.com)（兩個我都會收信） 
 - Discord id: simba-fs#2030
 - telegram: [@simbafs](https://t.me/simbafs)
+- twitter: [@simbafs](https://twitter.com/simbafs)
