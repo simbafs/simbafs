@@ -1,14 +1,12 @@
-# 🖐️ 哈囉！問世界安好
-我目前是一個大學生，讀書閒暇時間會開發一些小專案。  
-在 [成功高中電子計算機研習社](https://ckcsc.net) 擔任 `退休網管兼教學`  
-[![Followers](https://img.shields.io/github/followers/simba-fs?style=flat-square)](https://github.com/simba-fs)
-
+# 🖐️ 哈囉！問世界安好  [![Followers](https://img.shields.io/github/followers/simba-fs?style=flat-square)](https://github.com/simba-fs)
+我目前是大學生，讀書閒暇時間會開發一些小專案。  
+- [成功高中電子計算機研習社](https://ckcsc.net) 擔任 `退休網管兼教學`  
 - 本名: 陳宏彰
-- 其他稱呼: simba-fs
-- 興趣: 寫程式
-- 專長: **NodeJS**、**HTML/CSS/JS**
-# 🔗 紀錄
+- 常用網名: simba-fs、simbafs
+- **Golang**、**NodeJS**、**HTML/CSS/JS**
+
 [![SimbaFs's github stats](https://github-readme-stats.vercel.app/api?username=simba-fs&show_icons=true)](https://github.com/simba-fs)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=simba-fs&show_icons=true&locale=en&layout=compact)](https://github.com/simba-fs)
 
 # 🛠 作品
 - [telegrary](https://github.com/simba-fs/telegrary)
@@ -21,13 +19,10 @@ Telegrary 是一個 Telegram 機器人，讓你可以在 Telegram 上管理日�
 
 - [AURL](https://github.com/simba-fs/aurl)  
 這本來是我練習資料庫存取的一個專案，結果就越長越大，最後變成一個完整的專案了。  
-目前正在做第二版，程式碼會更具易讀性、可維護性，也會導入權限系統  
-[Demo](https://aurl.simba-fs.dev)
+~~目前正在做第二版，程式碼會更具易讀性、可維護性，也會導入權限系統~~ 第二版胎死腹中
 
-# 🔨 常用語言
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=simba-fs&show_icons=true&locale=en&layout=compact)](https://github.com/simba-fs)
 
 # 📬 聯絡方式
 - Discord id: simba-fs#2030
 - telegram: [@simbafs](https://t.me/simbafs)
-- twitter: [@simbafs](https://twitter.com/simbafs)
+- twitter: [@simbafs](https://twitter.com/simbafs
