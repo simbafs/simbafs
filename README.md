@@ -23,6 +23,6 @@ Telegrary 是一個 Telegram 機器人，讓你可以在 Telegram 上管理日�
 
 
 # 📬 聯絡方式
-- Discord id: simba-fs#2030
+- Discord id: SimbaFs#2030
 - telegram: [@simbafs](https://t.me/simbafs)
 - twitter: [@simbafs](https://twitter.com/simbafs)
