@@ -23,6 +23,7 @@ Telegrary = Telegram + diary
 Telegrary 是一個 Telegram 機器人，讓你可以在 Telegram 上管理日記。同時 Telegrary 提供了一個 CLI 界面，讓你可以在終端機管理日記。
 
 # 📬 聯絡方式
+- mail: [me@simbafs.cc](mailto:me@simbafs.cc)
 - Discord id: SimbaFs#2030
 - telegram: [@simbafs](https://t.me/simbafs)
 - twitter: [@simbafs](https://twitter.com/simbafs)
