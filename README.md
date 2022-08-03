@@ -10,9 +10,9 @@
 - [成功高中電子計算機研習社](https://ckcsc.net) 擔任 `退休網管兼教學`
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/simbafs/simbafs/master/profile-summary-card-output/default/0-profile-details.svg" alt="">
-<img src="https://raw.githubusercontent.com/simbafs/simbafs/master/profile-summary-card-output/default/2-most-commit-language.svg" alt="">
-<img src="https://raw.githubusercontent.com/simbafs/simbafs/master/profile-summary-card-output/default/3-stats.svg" alt="">
+<img src="https://raw.githubusercontent.com/simbafs/simbafs/master/profile-summary-card-output/solarized/0-profile-details.svg" alt="">
+<img src="https://raw.githubusercontent.com/simbafs/simbafs/master/profile-summary-card-output/solarized/3-stats.svg" alt="">
+<img src="https://raw.githubusercontent.com/simbafs/simbafs/master/profile-summary-card-output/solarized/2-most-commit-language.svg" alt="">
 </div>
 
 # 🛠 作品
