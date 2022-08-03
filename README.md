@@ -9,8 +9,11 @@
 - 成大物理系大二
 - [成功高中電子計算機研習社](https://ckcsc.net) 擔任 `退休網管兼教學`
 
-| <a href="https://github.com/simbafs"><img align="center" src="https://github-readme-stats.vercel.app/api?username=simbafs&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="SimbaFs's github stats" /></a> | <a href="https://github.com/simbafs"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simbafs&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<div align="center">
+<img src="https://raw.githubusercontent.com/simbafs/simbafs/master/profile-summary-card-output/default/0-profile-details.svg" alt="">
+<img src="https://raw.githubusercontent.com/simbafs/simbafs/master/profile-summary-card-output/default/2-most-commit-language.svg" alt="">
+<img src="https://raw.githubusercontent.com/simbafs/simbafs/master/profile-summary-card-output/default/3-stats.svg" alt="">
+</div>
 
 # 🛠 作品
 - [NCKU Extended](https://github.com/simbafs/ncku-extended)  
