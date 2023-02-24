@@ -9,6 +9,8 @@
 - 成大物理系大二
 - [成功高中電子計算機研習社](https://ckcsc.net) 擔任 `退休網管兼教學`
 
+<img src="./test.svg"/>
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/simbafs/simbafs/master/profile-summary-card-output/solarized/0-profile-details.svg" alt="">
 <img src="https://raw.githubusercontent.com/simbafs/simbafs/master/profile-summary-card-output/solarized/3-stats.svg" alt="">
