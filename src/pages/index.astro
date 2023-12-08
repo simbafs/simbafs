@@ -12,7 +12,14 @@ import Heading from '../components/Heading.astro'
 
 	<Heading level={2}>
 		🧒 關於我 <Link href="https://github.com/simbafs">
-			<img src="https://img.shields.io/github/followers/simbafs?style=flat-square" class="inline" />
+			<img
+				src="https://img.shields.io/github/followers/simbafs?style=flat-square"
+				loading="lazy"
+				class="inline"
+				height="20"
+				width="82"
+				alt="followers"
+			/>
 		</Link>
 	</Heading>
 	<ul class="ml-8 list-disc">
@@ -56,15 +63,24 @@ import Heading from '../components/Heading.astro'
 	<div class="flex flex-col justify-center">
 		<img
 			src="https://raw.githubusercontent.com/simbafs/simbafs/master/profile-summary-card-output/solarized/0-profile-details.svg"
+			loading="lazy"
+			width="700"
+			height="200"
 			alt=""
 		/>
 		<div class="flex flex-col md:flex-row">
 			<img
 				src="https://raw.githubusercontent.com/simbafs/simbafs/master/profile-summary-card-output/solarized/3-stats.svg"
+				loading="lazy"
+				width="340"
+				height="200"
 				alt=""
 			/>
 			<img
 				src="https://raw.githubusercontent.com/simbafs/simbafs/master/profile-summary-card-output/solarized/2-most-commit-language.svg"
+				loading="lazy"
+				width="340"
+				height="200"
 				alt=""
 			/>
 		</div>
