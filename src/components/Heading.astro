@@ -1,0 +1,57 @@
+---
+import type { HTMLAttributes } from 'astro/types'
+
+interface Props extends HTMLAttributes<'a'> {
+	level: 1 | 2 | 3 | 4 | 5 | 6
+}
+
+const { level, class: className, ...props } = Astro.props
+---
+
+{
+	level === 1 && (
+		<h1 class:list={[className, 'mb-8 mt-16 text-4xl font-bold']} {...props}>
+			# <slot />
+		</h1>
+	)
+}
+
+{
+	level === 2 && (
+		<h2 class:list={[className, 'mb-4 mt-12 text-2xl font-bold']} {...props}>
+			# <slot />
+		</h2>
+	)
+}
+
+{
+	level === 3 && (
+		<h3 class:list={[className, 'mb-4 mt-12 text-lg font-bold']} {...props}>
+			# <slot />
+		</h3>
+	)
+}
+
+{
+	level === 4 && (
+		<h4 class:list={[className, 'mb-4 mt-12 text-base']} {...props}>
+			# <slot />
+		</h4>
+	)
+}
+
+{
+	level === 5 && (
+		<h5 class:list={[className, 'my-1 text-base text-base0']} {...props}>
+			# <slot />
+		</h5>
+	)
+}
+
+{
+	level === 6 && (
+		<h6 class:list={[className, 'my-1 text-sm text-base0']} {...props}>
+			# <slot />
+		</h6>
+	)
+}

@@ -1,22 +1,44 @@
 # 🖐️ 哈囉！問世界安好 [![Followers](https://img.shields.io/github/followers/simbafs?style=flat-square)](https://github.com/simbafs)
 
--   本名: 陳宏彰
--   常用網名: simba-fs、SimbaFs
--   原 JS 愛好者 目前 Go 愛好者
--   vim is the best editor
--   前端好難
--   **Golang**、**NodeJS**、nextjs
--   五迷 目前最喜歡「成名在望」
--   成大物理系大二
--   [成功高中電子計算機研習社](https://ckcsc.net) 擔任 `退休網管兼教學`
+## 關於我
+
+-   橘色長條貓 aka 長條貓 aka SimbaFs
+-   成大物理系大三
+-   JS -> 網頁 -> Node.js -> Golang
+-   (neo)vim is the best
+-   喜歡吃洋蔥
+
+## 社群參與
+
+-   2023 COSCUP 製播組
+-   2022 SITCON HoC 臺南、高雄場助教
+-   2022 場務組機動股
+-   2021 SITCON HoC 臺南場助教
+-   2020 SITCON 會眾
+-   2019 SITCON HoC 新北場助教
+-   2019~2020 成功高中電子計算機研習社網管
+
+## 技能樹
+
+-   程式語言
+    -   golang
+    -   javascript/typescript
+    -   HTML/CSS/JS
+    -   python
+    -   bash
+-   工具
+    -   git
+    -   (neo)vim
+    -   linux
+    -   docker
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/simbafs/simbafs/master/profile-summary-card-output/solarized/0-profile-details.svg" alt="">
-<img src="https://raw.githubusercontent.com/simbafs/simbafs/master/profile-summary-card-output/solarized/3-stats.svg" alt="">
-<img src="https://raw.githubusercontent.com/simbafs/simbafs/master/profile-summary-card-output/solarized/2-most-commit-language.svg" alt="">
+    <img src="https://raw.githubusercontent.com/simbafs/simbafs/master/profile-summary-card-output/solarized/0-profile-details.svg" alt="">
+    <img src="https://raw.githubusercontent.com/simbafs/simbafs/master/profile-summary-card-output/solarized/3-stats.svg" alt="">
+    <img src="https://raw.githubusercontent.com/simbafs/simbafs/master/profile-summary-card-output/solarized/2-most-commit-language.svg" alt="">
 </div>
 
-# 🛠 作品
+# 🎨 作品
 
 -   [NCKU Extended](https://github.com/simbafs/ncku-extended)  
     成大系統瀏覽器擴充套件  
@@ -29,8 +51,10 @@
 
 # 📬 聯絡方式
 
+-   GPG fingerprint: [`FB39 7B64 177E 7C69 6E4D  707F 2FAD 6967 8674 CF25`](https://github.com/simbafs.gpg)
 -   mail: [me@simbafs.cc](mailto:me@simbafs.cc)
--   Mastodon: <a rel="me" href="https://g0v.social/@simbafs">@simbafs@g0v.social</a>
--   Discord id: SimbaFs#2030
--   telegram: [@simbafs](https://t.me/simbafs)
--   twitter: [@simbafs](https://twitter.com/simbafs)
+-   Telegram: [@simbafs](https://t.me/simbafs)
+-   Twitter: [@simbafs](https://twitter.com/simbafs)
+-   Discord ID: SimbaFs#2030
+-   Mastodon: <a rel="me" href="https://masto.simbafs.cc/@simbafs">@simbafs@masto.simbafs.cc</a>
+-   Facebook: [陳宏彰](https://www.facebook.com/simba.fs)

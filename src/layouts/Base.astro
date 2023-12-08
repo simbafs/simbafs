@@ -1,0 +1,46 @@
+---
+import NavLink from '../components/NavLink.astro'
+interface Props {
+	title: string
+	description: string
+}
+
+const { title, description } = Astro.props
+
+const year = new Date().getFullYear()
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="description" content={description} />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/x-png" href="/favicon.png" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{title}</title>
+	</head>
+	<body>
+		<nav class="bg-blue p-4">
+			<NavLink href="/" class="text-2xl">Home</NavLink>
+			<NavLink href="https://blog.simbafs.cc" class="text-2xl">Blog</NavLink>
+		</nav>
+		<div class="mb-12 mt-8 flex w-screen justify-center px-8 lg:px-36">
+			<div>
+				<slot />
+			</div>
+		</div>
+		<footer
+			class="flex h-[200px] flex-col items-center justify-center gap-4 bg-green text-base2 md:flex-row md:gap-28"
+		>
+			<span>Made with 🐈 in Taiwan</span>
+			<span>SimbaFs ©2023-{year}</span>
+		</footer>
+	</body>
+</html>
+
+<style>
+	html {
+		@apply bg-base3;
+	}
+</style>
