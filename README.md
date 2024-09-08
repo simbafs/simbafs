@@ -39,17 +39,6 @@
     <img src="https://raw.githubusercontent.com/simbafs/simbafs/master/profile-summary-card-output/solarized/2-most-commit-language.svg" alt="">
 </div>
 
-# 🎨 作品
-
--   [NCKU Extended](https://github.com/simbafs/ncku-extended)  
-    成大系統瀏覽器擴充套件  
-    擴充成大系統的功能  
-    目前功能還不多，有其他想法歡迎發 Issue
-
--   [telegrary](https://github.com/simbafs/telegrary)
-    Telegrary = Telegram + diary  
-    Telegrary 是一個 Telegram 機器人，讓你可以在 Telegram 上管理日記。同時 Telegrary 提供了一個 CLI 界面，讓你可以在終端機管理日記。
-
 # 📬 聯絡方式
 
 -   GPG fingerprint: [`FB39 7B64 177E 7C69 6E4D  707F 2FAD 6967 8674 CF25`](https://github.com/simbafs.gpg)
@@ -57,5 +46,3 @@
 -   Telegram: [@simbafs](https://t.me/simbafs)
 -   Twitter: [@simbafs](https://twitter.com/simbafs)
 -   Discord ID: SimbaFs#2030
--   Mastodon: <a rel="me" href="https://masto.simbafs.cc/@simbafs">@simbafs@masto.simbafs.cc</a>
--   Facebook: [陳宏彰](https://www.facebook.com/simba.fs)
