@@ -2,9 +2,9 @@
 
 ## 關於我
 
--   橘色長條貓 aka 長條貓 aka SimbaFs
+-   長條貓 aka SimbaFs
 -   成大物理系大四
--   JS -> 網頁 -> Node.js -> Golang
+-   Golang, Nodejs, Reactjs
 -   (neo)vim is the best
 -   喜歡吃洋蔥
 
