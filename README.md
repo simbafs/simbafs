@@ -43,7 +43,7 @@
 # 📬 聯絡方式
 
 -   GPG fingerprint: [`FB39 7B64 177E 7C69 6E4D  707F 2FAD 6967 8674 CF25`](https://github.com/simbafs.gpg)
--   mail: [me@simbafs.cc](mailto:me@simbafs.cc)
+-   mail: [me@simbafs.dev](mailto:me@simbafs.dev)
 -   Telegram: [@simbafs](https://t.me/simbafs)
 -   Twitter: [@simbafs](https://twitter.com/simbafs)
 -   Discord ID: SimbaFs#2030
